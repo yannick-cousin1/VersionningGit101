@@ -1,5 +1,5 @@
 #Fichier gitignore
 #Les fichiers listé ici ne seront pas tracké par git
 
-g1
+./g1
 
