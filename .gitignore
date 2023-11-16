@@ -2,4 +2,5 @@
 #Les fichiers listé ici ne seront pas tracké par git
 
 ./g1
-
+./h*
+./!h2
